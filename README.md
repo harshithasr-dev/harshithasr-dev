@@ -14,5 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshithasr-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+📊 GitHub Stats
 
+"Harshitha's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=harshithasr-dev&show_icons=true&theme=dark)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasr-dev&layout=compact&theme=dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
