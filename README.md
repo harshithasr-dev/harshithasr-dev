@@ -14,13 +14,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasr-dev&layout=compact&theme=dark)
 
----
-
-# 🐍 Fix Snake Animation
-
-### 👉 Add this normally (NO ```):
-
-## 🐍 Contribution Snake
+--
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
